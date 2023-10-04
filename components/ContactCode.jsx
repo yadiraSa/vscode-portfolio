@@ -1,15 +1,9 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  // {
-  //   social: 'website',
-  //   link: 'nitinranganath.me',
-  //   href: 'https://nitinranganath.me',
-  // },
   {
     social: "email",
     link: "yadirasalazar.ysa@gmail.com",
-    href: "mailto:yadirasalazar.ysa@gmail.com",
   },
   {
     social: "github",
@@ -21,36 +15,6 @@ const contactItems = [
     link: "Yadira Salazar Alvarez",
     href: "https://www.linkedin.com/in/yadira-sa/",
   },
-  // {
-  //   social: "twitter",
-  //   link: "iamnitinr",
-  //   href: "https://www.twitter.com/iamnitinr",
-  // },
-  // {
-  //   social: "instagram",
-  //   link: "iamnitinr",
-  //   href: "https://www.instagram.com/iamnitinr",
-  // },
-  // {
-  //   social: "polywork",
-  //   link: "nitinranganath",
-  //   href: "https://www.polywork.com/nitinranganath",
-  // },
-  //   {
-  //     social: "telegram",
-  //     link: "iamnitinr",
-  //     href: "https://t.me/iamnitinr",
-  //   },
-  //   {
-  //     social: "codepen",
-  //     link: "nitinranganath",
-  //     href: "https://codepen.io/itsnitinr",
-  //   },
-  //   {
-  //     social: "codesandbox",
-  //     link: "itsnitinr",
-  //     href: "https://codesandbox.io/u/itsnitinr",
-  //   },
 ];
 
 const ContactCode = () => {

@@ -15,8 +15,7 @@ const ProjectCard = ({ project }) => {
             </span>
           ))}
         </div>
-        <div className={styles.cta}>
-          {project.source_code && (
+          {/* {project.source_code && (
             <a
               href={project.source_code}
               target="_blank"
@@ -25,16 +24,15 @@ const ProjectCard = ({ project }) => {
             >
               Source Code
             </a>
-          )}
-          <a
+          )} */}
+          {/* <a
             href={project.demo}
             target="_blank"
             rel="noopener noreferrer"
             className={styles.underline}
           >
             Live Demo
-          </a>
-        </div>
+          </a> */}
       </div>
     </div>
   );

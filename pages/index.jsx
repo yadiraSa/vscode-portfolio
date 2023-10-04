@@ -2,12 +2,12 @@ import Link from 'next/link';
 import Illustration from '../components/Illustration';
 import styles from '../styles/HomePage.module.css';
 
-export default function HomePage() {
+export default function HomePage() {    
   return (
     <>
       <div className={styles.container}>
         <div className={styles.background}>
-          <h1>I BUILD</h1>
+          <h1>I LOVE BUILDING</h1>
           <h1>WEBSITES</h1>
         </div>
         <div className={styles.foreground}>
