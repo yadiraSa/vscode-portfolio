@@ -19,5 +19,13 @@
     "image": "https://i.imgur.com/lBr4pNh.png",
     "description": "An ai plataform where you can conversate, and generate musica, videos or even code!",
     "tags": ["next", "tailwindcss", "stripe", "crisp", "clerk", "prisma"]
+  },
+  {
+    "id": 4,
+    "name": "Jobs search App",
+    "image": "https://i.imgur.com/qLNbYzB.png",
+    "description": "A react native app where you can find your dream job and apply to it!",
+    "tags": ["react-native", "rapidApi"],
+    "demo": "https://yasa-jobs-jade.vercel.app/"
   }
 ]
